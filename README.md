@@ -1,5 +1,7 @@
 # Nature Technologies (site em HTML, CSS e JavaScript)
 
+> 🎓 **Projeto acadêmico** · Análise e Desenvolvimento de Sistemas, PUCPR · 2024
+
 Site institucional fictício sobre **tecnologia e engenharia genética na produção de alimentos**, feito como trabalho da disciplina de desenvolvimento web. Tem página inicial com carrossel de imagens e um formulário de cadastro com validação em tempo real.
 
 ## 🧱 Stack
